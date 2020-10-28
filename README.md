@@ -2,11 +2,8 @@
 
 ```
 Project Name: Caring Aunt
-Author: - Karan Singh Negi
-        - Bhavleen Singh Manaktala
+Author: Bhavleen Singh Manaktala
 ```
-
-![Welcome](https://res.cloudinary.com/dnja3kt1q/image/upload/v1593366180/logo/welcome_l3ugdr.jpg)
 
 ### Deployed URL's
 
@@ -16,11 +13,11 @@ Author: - Karan Singh Negi
 
 ## Brief About of Project
 
-First of all our project is gender-specific, will beneficial for females, once the user signed up with our website from their onwards tracking of there periods is not a mess anymore for them.
+First of all this project is gender-specific, will beneficial for females, once the user signed up from their onwards tracking of there periods is not a mess anymore for them.
 
-We'll be giving each and every single details of their menstrual cycle details on their phone via **Text Messages**.
+We'll be giving each and every single details of their menstrual cycle on their phone via **Text Messages**.
 
-Few features we have applied and there are many more we are left with for now. Which we will definitely be adding with passing time in the near future.
+Few features I have applied and there are many more left for now. Which we will definitely be adding with passing time in the near future.
 
 Let's take a tour of our project.
 
@@ -50,7 +47,7 @@ Let's take a tour of our project.
     - periodLength
 
   > Here all fields are required
-  > By upper detail we will be calculating users future period dates and keep on reminding user 1 day prior to her period date via **text messages**
+  > By upper detail we will be calculating users future period dates and keep on reminding user 1 day prior to her period date via **text messages**.
 
   > From tomorrow onwards your period is starting.
 
@@ -93,7 +90,7 @@ Let's take a tour of our project.
 
 - #### https://caring-aunt.herokuapp.com/users/logoutAll
 
-`We have created an API from the user can log in from different-different Operating Systems, So for that, we have implemented`
+`I have created an API from the user can log in from different-different Operating Systems, So for that, we have implemented`
 
 `LOGOUT ALL FEATURE: Which will give user and feature to logout from all devices.`
 
